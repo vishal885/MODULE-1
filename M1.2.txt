@@ -1,0 +1,6 @@
+What are the types of applications?
+=>The application software is divided into two main categories.
+  [1]General software like word processors,web browsesrs,spreadsheet
+     software,etc.
+  [2]custom software customized according to the need of the user and
+     organizational needs.

@@ -1,0 +1,5 @@
+what is programming ?
+=>programming is the process of creating a set of instructions that,
+  tell a computer how to perfrom a task.
+  programming cand be done using of computer programming languages,
+  sach as JavaScript,Python,C++,Php ect.

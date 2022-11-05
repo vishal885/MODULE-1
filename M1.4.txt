@@ -1,0 +1,5 @@
+What is Pyhton ?
+=>Python is high-level,general-purpose programming language.
+ -python is dynamically-typed and grabage-collection.
+ -it supports multiple programming pradigms,including structured,
+  object-oriented and fanctional programming.
